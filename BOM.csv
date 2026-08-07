@@ -1,7 +1,7 @@
 Part,Quantity,Value,Vendor,Purpose
 LilyGO T-Display S3 ESP32-S3,1,$21.00,Amazon,"Current Display Broken, replacement"
-MyoWare Muscle Sensor 2.0,1,$43.50,Amazon,To have multiple sensors to detect form and other parts (already have 1)
-BNO085 IMU,1,$19.89,Amazon,To have multiple sensors to detect form and other parts (already have 1)
+MyoWare Muscle Sensor 2.0,1,$43.50,Amazon,To have multiple sensors to detect form and other parts (in addition to my current emg to have another body part)
+BNO085 IMU,1,$19.89,Amazon,To have multiple sensors to detect form and other parts (in addition to my current emg to have another body part)
 Digital Calipers,1,$25.99,Amazon,To 3D Model accurately for casing the product
 Misc. Electronics,1,$10.00,Amazon,"Wires, Heatshrink, EMG Electrodes, PLA"
 Total Before Tax:,,$120.38,,
