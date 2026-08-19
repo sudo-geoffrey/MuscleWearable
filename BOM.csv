@@ -1,8 +1,9 @@
 Part,Quantity,Value,Vendor,Purpose
-Seeed Studio ESP32,1,$3.00,AliExpress,"for the second muscle sensor that will connect to the wearable"
-MyoWare Muscle Sensor 2.0,1,$43.50,Digikey,For the second sensor s to detect form and other parts (in addition to my current emg to have another body part) + digikey had the cheapest, ali was marked up
-BNO085 IMU,1,$21.53,AliExpress, For the second to detect form and other parts (in addition to my current emg to have another body part)
-Vibration Motor 3v3,1,$2.00, AliExpress, To notify the user when form is bad
-Misc. Electronics,1,$10.00,AliExpress,"Wires, Heatshrink, EMG Electrodes, PLA"
-Total Before Shipping + Tax:,,$120.38,,
-Funding requested,,$120.00,,
+Seeed Studio ESP32,1,$3.00,AliExpress,"For the second muscle sensor that will connect to the wearable"
+MyoWare Muscle Sensor 2.0,1,$43.50,DigiKey,"Second EMG sensor to measure an additional muscle group for form detection"
+BNO085 IMU,1,$21.53,AliExpress,"Second IMU to measure motion and form at an additional body location"
+Vibration Motor 3.3V,1,$2.00,AliExpress,"Provides haptic feedback to notify the user when poor form is detected"
+Misc. Electronics,1,$10.00,AliExpress,"Wires, heat-shrink tubing, EMG electrodes, and PLA"
+Shipping,1,$20.00,Multiple Vendors,"Estimated shipping costs"
+Total Before Tax:,,$100.03,,
+Funding Requested:,,$105.00,, Extra for tax
